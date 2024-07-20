@@ -1,0 +1,10 @@
+ipykernel
+langchain
+langchain_groq
+python-dotenv
+langchain_core
+flask 
+flask_restful
+uvicorn
+langserve
+sse_starlette
